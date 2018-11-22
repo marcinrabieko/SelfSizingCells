@@ -1,0 +1,6 @@
+framework module Pods_SelfSizingCells {
+  umbrella header "Pods-SelfSizingCells-umbrella.h"
+
+  export *
+  module * { export * }
+}
